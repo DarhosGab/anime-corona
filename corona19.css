@@ -1,0 +1,226 @@
+body{
+   
+    background-color: rgb(255, 255, 255);
+    font-family: Roboto, sans-serif;
+}
+
+
+.formatacao{
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(45, 67, 88);
+    margin-left: 133px;
+
+}
+
+.felix-chan{
+
+    position: absolute;
+    bottom: 588px;
+
+}
+
+#felix{
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 1128px;
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+.Fel{
+
+    position: absolute;
+    left: 1193px;
+    bottom: 32px;
+    width: 35px;
+    height: 30px;
+    border: 1px solid;
+    padding: 2px;
+
+
+}
+
+#felix2 {
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 1128px;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    bottom: 40px;
+}
+
+
+
+.links a{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+    text-decoration: none;
+
+}
+.links{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border: 2px solid;
+    width: 85%;
+    margin: 0 auto;
+    background-color:rgb(33, 33, 170);
+    color: rgb(33, 33, 170);
+    height: 30px;
+
+}
+
+
+.colona{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border: 2px solid;
+    width: 85%;
+    margin: 0 auto;
+    background-color: rgb(223, 232, 236);
+    color: rgb(0, 0, 0);
+    height: 60px;
+    border-top: none;
+}
+
+.colona1{
+
+    margin-left: 40px;
+    color: black;
+
+}
+
+.colona2{
+
+    position: absolute;
+    bottom: 510px;
+    opacity: 0.7;
+    margin-left: 40px;
+    
+}
+
+
+.px{
+
+    margin-top: 1px;
+    margin-left: 98px;
+    margin-right: 98px;
+}
+
+
+
+.kimitsu{
+
+    height: 160px;
+    padding: 5px;
+
+}
+
+
+
+.texto p{
+
+    color: black;
+    margin-left: 5px;
+}
+
+.texto{
+
+    margin-left: 98px;
+    font-size: 15px;
+    border: 0.1px solid;
+    color: rgb(117, 116, 116);
+    width: 332px;
+
+}
+
+.border{
+
+    border: 1px solid;
+    margin-right: 99px;
+
+}
+
+.conteiner{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.lado{ 
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 5px;
+
+}
+
+.lado p{
+
+    margin-left:  5px;
+
+}
+
+.margin{
+
+    margin-left: 98px;
+    margin-right: 98;
+
+}
+
+.lado2 p{
+
+    margin-left: 0px;
+    width: 99%;
+    text-align: justify;
+
+}
+
+.rank{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    height: 50%;
+
+
+
+
+}
+
+.rank p{
+
+
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+.rank1{
+
+    margin-left: 50px;
+
+}
+
+.EUA{
+
+    height: 60px;
+    width: 100px;
+    padding: 3px;
+}
+
